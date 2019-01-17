@@ -1,6 +1,4 @@
-package com.basics.types.arrays.array_sample_2;
-
-public class Sample_Two {
+public class H_1_ARRAY_Sample_Two {
 	
 	public static void main(String[] args) {
 		

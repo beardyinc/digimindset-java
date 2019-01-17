@@ -1,6 +1,4 @@
-package com.basics.flowcontrol.if_statement;
-
-public class IF_FlowControlClass {
+public class C_IF_FlowControlClass {
 
 	public static void main(String[] args) {
 		String ergebnis;

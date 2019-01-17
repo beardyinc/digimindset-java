@@ -1,6 +1,4 @@
-package com.basics.flowcontrol.for_loop.foreach_2dim_1;
-
-public class ForLoopMultidimArray {
+public class K_MultiDIM_ARRAY_MultiDimentionalArray {
 
 	public static void main(String[] args) {
 

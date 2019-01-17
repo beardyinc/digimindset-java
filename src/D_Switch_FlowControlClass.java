@@ -1,6 +1,4 @@
-package com.basics.flowcontrol.switch_statement;
-
-public class Switch_FlowControlClass {
+public class D_Switch_FlowControlClass {
 
 	public static void main(String[] args) {
 

@@ -1,8 +1,6 @@
-package com.basics.data.scanner_entry;
-
 import java.util.Scanner;
 
-public class Scanner_While_Sample_One {
+public class G_Scanner_While_Sample_One {
 	public static void main(String[] args) {
 		//Enter data to java program through Keyboard
         //via Scanner -Klasse

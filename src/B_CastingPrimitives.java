@@ -1,6 +1,4 @@
-package com.basics.types.casting;
-
-public class CastingPrimitives {
+public class B_CastingPrimitives {
 	
 	public static void main(String[] args) {
 		

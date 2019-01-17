@@ -1,6 +1,4 @@
-package com.basics.flowcontrol.for_loop.foreach_2dim;
-
-public class TestTwoDimentionArray {
+public class J_2DIM_ARRAY_FOREACH_TestTwoDimentionArray {
 
 	public static void main(String[] args) {
 		//Two Dimensional Array

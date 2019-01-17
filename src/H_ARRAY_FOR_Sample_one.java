@@ -1,8 +1,6 @@
-package com.basics.types.arrays.array_sample_1;
-
 import java.util.Scanner;
 
-public class Sample_one {
+public class H_ARRAY_FOR_Sample_one {
 
 	public static void main(String[] args) {
 		

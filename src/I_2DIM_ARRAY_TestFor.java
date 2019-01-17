@@ -1,6 +1,4 @@
-package com.basics.flowcontrol.for_loop.foreach_2dim_init;
-
-public class TestForEach {
+public class I_2DIM_ARRAY_TestFor {
 
 	public static void main(String[] args) {
 		

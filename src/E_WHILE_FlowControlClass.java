@@ -1,6 +1,4 @@
-package com.basics.flowcontrol.while_loop;
-
-public class WhileLoopExample {
+public class E_WHILE_FlowControlClass {
 
 	public static void main(String[] args) {
 		int count = 0;
