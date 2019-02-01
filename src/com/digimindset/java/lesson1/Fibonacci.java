@@ -29,7 +29,6 @@ public class Fibonacci {
 
     current = 1;
     previous = 0;
-    current = current * 80;
 
     System.out.print(previous+" ");
     System.out.print(current+" ");
