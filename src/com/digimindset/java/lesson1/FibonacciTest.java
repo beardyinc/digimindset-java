@@ -19,6 +19,6 @@ public class FibonacciTest {
     System.out.println("*******************************");
     f.createFibonacciSeries(0);
     System.out.println("*******************************");
-    f.createFibonacciSeries(10000000);
+    f.createFibonacciSeries(200);
   }
 }

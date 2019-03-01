@@ -33,7 +33,7 @@ public class Fibonacci {
     System.out.print(previous+" ");
     System.out.print(current+" ");
 
-    while (current + previous < upperLimit) {
+    for (int i = 0; i < upperLimit; i++) {
       next = current + previous;
 
       System.out.print(next+" ");
